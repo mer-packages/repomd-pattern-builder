@@ -1,6 +1,2 @@
-Name space documentation available at:
-
-https://github.com/openSUSE/open-build-service/blob/master/docs/api/api/pattern.rng
-https://github.com/openSUSE/open-build-service/blob/master/docs/api/api/rpm-ns.rng
-
-
+This project has migrated to https://git.merproject.org/mer-core/repomd-pattern-builder
+as part of the Mer/Nemo merge work

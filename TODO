@@ -1,4 +1,0 @@
-== Add support for groupxml ==
-Currently groupxml isn't working and it is relaced with error message
-as the old version did actually patterns.xml and not group.xml
-
